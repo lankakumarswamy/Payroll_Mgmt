@@ -1,0 +1,19 @@
+.leave-report-container {
+    padding: 20px;
+  }
+  
+  .leave-report-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .leave-report-table th,
+  .leave-report-table td {
+    border: 1px solid #7e92bf;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .leave-report-table th {
+    background-color: #554faf;
+  }

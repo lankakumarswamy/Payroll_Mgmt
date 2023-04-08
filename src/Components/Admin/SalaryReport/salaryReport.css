@@ -1,0 +1,27 @@
+.salaryReportContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  margin-right: 50px;
+}
+
+.salaryReport {
+  width: 300px;
+  border: 1px solid black;
+  padding: 10px;
+}
+body {
+  background-color: #7eb6b6;
+}
+
+.salary-report-container {
+  background-color: rgb(29, 104, 210);
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}

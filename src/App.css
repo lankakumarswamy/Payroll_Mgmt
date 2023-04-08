@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.form-data {
+  display: flex;
+  justify-content: space-evenly;
+  min-height: 600px;
+}
+
+.css-dev-only-do-not-override-ph9edi.ant-col-8 {
+  display: block;
+  flex: 0 0 50% !important;
+  max-width: 50% !important;
+}
+
+.colLeft {
+  text-align: right;
+}
+
+.colRight {
+  text-align: left;
+  padding-left: 15px;
+}
